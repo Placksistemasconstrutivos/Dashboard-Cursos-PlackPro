@@ -1,0 +1,1 @@
+import React from "react"; export default function Dashboard() { return <div className="text-2xl text-center mt-20">PlackPro Cursos Dashboard 🚀</div>; }
